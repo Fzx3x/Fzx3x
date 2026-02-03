@@ -1,6 +1,7 @@
 My name is Felipe Alves
 
 - I'm studying at Alura
+- I'm studying Analysis and Development of Systems.
 - I am starting to learn programming
 - I intend to use this tool to store my projects
 
